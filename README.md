@@ -1,3 +1,3 @@
 # IT1600
-<h1> Luke Richmond <h1>
+## Luke Richmond
 Challenge: Markdown Pages on GitbHUb
