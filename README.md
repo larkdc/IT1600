@@ -3,4 +3,5 @@
 Challenge: Markdown Pages on GitbHUb
 
 [Hometown](Hometown.md)
+<br>
 [Mizzou Disc Golf](DiscGolf.md)
